@@ -8,9 +8,8 @@ body{
 .title-box{
   display: flex;
   flex-direction: row;
-  align-items: center;
-
   text-align: center;
+  align-items: center;
 }
 
 .picture{
@@ -24,6 +23,7 @@ body{
 
 .title-wrap{
   width: 100%;
+  text-align: center;
 }
 
 .title-box-main{
